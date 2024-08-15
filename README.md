@@ -7,13 +7,16 @@
   Tenho 20 anos, moro perto de Curitiba/PR e sou apaixonado por programação! Atualmente curso o 3 período de Análise e Desenvolvimento de Sistemas, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 <br>
-<br>
 
 <div>
   <a href="https://github.com/ViniciusFillos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFillos&show_icons=true&theme=algolia"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFillos&layout=compact&theme=algolia"/>
 </div>
+
+<br>
+
+Eu foco no desenvolvimento de backend com Spring Boot, mas como sou bem curioso, acabo estudando também frontend e outras áreas para entender como tudo funciona junto.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
