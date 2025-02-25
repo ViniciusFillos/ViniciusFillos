@@ -4,7 +4,7 @@
 
 <br>
 
-  Tenho 20 anos, moro em Irati/PR e sou apaixonado por programação! Atualmente curso o 3 período de Análise e Desenvolvimento de Sistemas, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
+  Tenho 20 anos, moro em Irati/PR e sou apaixonado por programação! Atualmente curso o 5 período de Análise e Desenvolvimento de Sistemas, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 <br>
 
